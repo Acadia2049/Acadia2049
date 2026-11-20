@@ -10,6 +10,12 @@ An independently developed AI-assisted writing application: people supply an ide
 
 [Try the application](https://coms6998-sand.vercel.app/)
 
+### [Slickdeals Analytics Demo](https://github.com/Acadia2049/slickdeals-analytics-demo)
+
+A reproducible analytics pipeline and Streamlit dashboard for timestamped Slickdeals observations. Built with Python, SQL, dbt, and DuckDB, with explicit metric definitions, observation-level traceability, and automated data-quality checks. The public demo runs on synthetic data without cloud credentials.
+
+[Explore the demo and metric walkthrough](https://github.com/Acadia2049/slickdeals-analytics-demo#readme)
+
 ### [Online Shoppers Purchase Prediction](https://github.com/Acadia2049/online-shoppers-purchase-prediction)
 
 Python/PySpark analysis of online shopping sessions, including data checks, exploratory analysis, four classification models, purchase-class metrics, and a feature ablation using the same train/test split. The project examines predictive associations rather than causal treatment effects.
